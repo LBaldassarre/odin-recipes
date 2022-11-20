@@ -4,6 +4,24 @@ body {
     background-color: antiquewhite;
 }
 
-.a {
+a {
     color: black;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.ingredients,
+.how-to {
+    text-align: left;
+}
+
+.ingredients {
+    color: crimson;
+}
+
+.how-to {
+    color: darkblue;
 }
